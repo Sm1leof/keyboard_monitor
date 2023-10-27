@@ -1,0 +1,3 @@
+/home/vladimir/keyboard_project/build/CMakeFiles/keyboard_monitor.dir
+/home/vladimir/keyboard_project/build/CMakeFiles/edit_cache.dir
+/home/vladimir/keyboard_project/build/CMakeFiles/rebuild_cache.dir

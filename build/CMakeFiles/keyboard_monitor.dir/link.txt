@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/keyboard_monitor.dir/keyboard_monitor.c.o -o keyboard_monitor 
